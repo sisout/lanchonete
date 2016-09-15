@@ -35,7 +35,7 @@ nav a:hover {
 
 .side-nav {
 	background-color: rgba(0, 0, 0, 0.77);
-	width: 80vw;
+	width: 80vw !important;
     -webkit-transform: translateX(-100%);
 	transform: translateX(-100%);
 	-webkit-transition: all 0.5s;
@@ -373,7 +373,6 @@ footer p {
 
 .preco h4 {
 	color: #06cc03 !important;
-	/*font-family: 'Rubik One', sans-serif;*/
 	font-family: 'Bungee', cursive;
 }
 
