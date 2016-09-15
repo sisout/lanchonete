@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="559"
+   height="559"
+   viewBox="0 0 559.00001 559.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-213.08669"
+     inkscape:cy="95.242408"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-493.36214)">
+    <circle
+       style="fill:#758693;stroke:#000000;stroke-width:4.53975582;fill-opacity:1;stroke-opacity:1"
+       id="path3347"
+       cx="279.5"
+       cy="772.86212"
+       r="277.24939" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.87938881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 354.95624,1038.854 -5.63257,-230.33631 c 0.87546,-33.23811 12.6951,-55.74497 31.36749,-56.6358 21.71694,-0.44012 39.99567,12.15704 46.5846,42.58896 15.53631,71.92258 16.49502,138.22337 19.16902,199.53211 -26.08736,17.62944 -49.6248,32.22854 -91.48854,44.85104 z"
+       id="path4149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.87938881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 232.53584,1046.3366 c 21.08404,-11.4906 34.29552,-36.2352 34.52607,-65.0767 l -7.95082,-209.44337 c -0.73786,-21.65126 -17.35262,-23.47395 -17.42639,0.87132 l 0,181.23445 c -2.11034,30.05259 -21.10107,18.00021 -21.78296,-0.87131 l -0.6535,-177.09571 c 0.9528,-30.38288 -16.19088,-22.9443 -16.55503,-4.13875 l -0.21762,179.49178 c -0.004,30.50994 -18.80595,32.09433 -20.04033,1.74268 l -0.87137,-185.59107 c 1.24796,-11.82773 -14.7841,-23.8726 -15.90158,0.6535 l -0.65345,185.80888 c -0.7405,26.28434 -22.37405,36.25732 -21.78301,-6.97055 l -0.87131,-181.67008 c 1.54921,-15.49079 -12.19886,-19.89356 -14.37673,-1.30705 l -10.58183,233.44957 c 39.02799,23.39441 75.37728,38.06291 116.17483,47.76881 z"
+       id="path4151"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:93.67370605px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.87938881px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.544163"
+       y="714.56409"
+       id="text4153"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4155"
+         x="58.544163"
+         y="714.56409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Baekmuk Batang';-inkscape-font-specification:'Baekmuk Batang';fill:#ffffff;stroke:#ffffff;stroke-width:4.87938881px">Lanchonete</tspan></text>
+    <circle
+       r="277.24939"
+       cy="772.86212"
+       cx="279.5"
+       id="circle4157"
+       style="fill:none;stroke:#758693;stroke-width:4.53975582;stroke-opacity:1" />
+  </g>
+</svg>
