@@ -35,7 +35,7 @@ nav a:hover {
 
 .side-nav {
 	background-color: rgba(0, 0, 0, 0.77);
-	width: 80vw !important;
+	width: 50% !important;
     -webkit-transform: translateX(-100%);
 	transform: translateX(-100%);
 	-webkit-transition: all 0.5s;
